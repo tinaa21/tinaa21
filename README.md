@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **c**
 
-- 👯 I’m looking to collaborate on **machine learning and game developmentprojects**
+- 👯 I’m looking to collaborate on **machine learning and game development projects**
 
 - 🤝 I'm open to collaborating on **Open to work in a team to build ideas 💡 I have knowledge on developing apps and game**
 
